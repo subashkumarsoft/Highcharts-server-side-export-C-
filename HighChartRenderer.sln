@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighchartRender", "HighchartRender\HighchartRender.csproj", "{50745A24-87D5-4A86-9344-F213A65BAA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighchartsExportClient", "HighchartsExportClient\HighchartsExportClient.csproj", "{68D7199E-6F27-463A-8D44-C66A3FD4B2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighChartTestMVC", "HighChartTestMVC\HighChartTestMVC.csproj", "{DE01BB4F-2475-4E43-8026-20A6A1E56462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50745A24-87D5-4A86-9344-F213A65BAA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50745A24-87D5-4A86-9344-F213A65BAA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50745A24-87D5-4A86-9344-F213A65BAA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50745A24-87D5-4A86-9344-F213A65BAA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D7199E-6F27-463A-8D44-C66A3FD4B2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D7199E-6F27-463A-8D44-C66A3FD4B2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D7199E-6F27-463A-8D44-C66A3FD4B2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D7199E-6F27-463A-8D44-C66A3FD4B2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE01BB4F-2475-4E43-8026-20A6A1E56462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE01BB4F-2475-4E43-8026-20A6A1E56462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE01BB4F-2475-4E43-8026-20A6A1E56462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE01BB4F-2475-4E43-8026-20A6A1E56462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A9F3D4-752A-40FC-9B11-3AF8E689E442}
+	EndGlobalSection
+EndGlobal
